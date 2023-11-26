@@ -6,3 +6,6 @@
 *.geojson
 *.json
 *.ome.tiff
+*.pb
+*.index
+*.data-*
